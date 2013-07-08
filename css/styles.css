@@ -181,7 +181,7 @@ color: #2890D5;
 /***** CONTACT *****/
 
 #contact-form {
-	border-left: 1px solid #cccccc;
+	
 	}
 	
 #contact-info {
@@ -299,7 +299,7 @@ color: #2890D5;
 			margin: auto;
 			display: block;
 			line-height: 17px;
-			z-index: 9999;
+			z-index: 999;
 			position: relative;
 			}
 			.mouse-animation{
@@ -310,3 +310,38 @@ color: #2890D5;
 
 
 			}
+			
+#container {
+    width: 100%;
+    }
+
+   .div5{
+    -moz-column-count: 3;
+    -moz-column-gap: 10px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 10px;
+    column-count: 3;
+    column-gap: 10px;
+     }
+
+    .div5 a{
+        display: inline-block; /* Display inline-block, and absolutely NO FLOATS! */
+        margin-bottom: 20px;
+        width: 100%; }
+a {
+color: #DDE1E4;
+}			
+.box1{
+	background: #E7BD38;
+	height: 200px;
+	text-align: center;
+
+}
+.div5 i{
+font-size: 70px;
+line-height: 120px;
+
+}
+.div5 span{
+font-size: 26px;
+}	
