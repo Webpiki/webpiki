@@ -12,7 +12,7 @@
  
  body { 
 	
-<<<<<<< HEAD
+
 
 	background: #3172bc;
 	color:#8bbbf3;
@@ -23,11 +23,6 @@
 
 	
 
-=======
-	background-color: #fff;
-	}
-	
->>>>>>> cd780f827a0e19e785212fb50a1456b8e443e064
 h1, h2, h3, h4, h5, h6 {
 	text-shadow: white 0.02em 0.02em;
 	font-family: 'QlassikBold', sans-serif;
@@ -272,9 +267,7 @@ color: #2890D5;
 				text-decoration: none;
 				background-color: rgba(34, 34, 34, 0.24) !important;
 				border-bottom: 2px solid#49CEF0;
-<<<<<<< HEAD
-
-			}
+}
 			.main-home h2{
 				font-family: arial;
 				font-weight: normal;
@@ -315,6 +308,5 @@ color: #2890D5;
 				z-index: 99;
 				
 
-=======
->>>>>>> cd780f827a0e19e785212fb50a1456b8e443e064
+
 			}
