@@ -345,3 +345,86 @@ line-height: 120px;
 .div5 span{
 font-size: 26px;
 }	
+.white-bg{
+	background:#fff;
+	padding: 10px;
+}
+.testimo-img {
+	background: url(../img/sprite.png)no-repeat;
+	width: 69px;
+	height: 102px;
+	display: block;
+	margin: auto;
+	background-position: -12px 0px;
+}
+.white-bg p{
+	width: 80%;
+	color: #A29696;
+	text-align: center;
+	padding-top: 10px;
+	margin: auto;
+	font-family: arial;
+	font-size: 13px;
+	line-height: 19px;
+}
+.list-menu{
+	font-family: arial;
+	font-size: 13px;
+	width: 37%;
+	margin: auto;
+}
+.list-menu li{
+	border: 1px solid #CCC;
+	display: inline-block;
+	padding: 5px;
+}
+.list-menu li a{
+	color: #979393;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 11px;
+}
+.list-menu li:hover{
+	background:#3172bc;
+	cursor:pointer;
+}
+.list-menu li a:hover{
+	color: #fff;
+}
+
+.page-header1{
+	color: #1478BB;
+	padding: 5px;
+}
+pre {
+	border: 1px solid #CCC !important;
+	word-wrap: break-word!important;
+	padding: 6px 10px!important;
+	line-height: 25px!important;
+	color: #998!important;
+	font-family:arial!important;
+	font-size:12px!important;
+	margin-bottom: 20px!important;
+}
+pre .comment {
+	color: #998;
+	float: left;
+	
+}
+.compliatble{
+	background: url(../img/sprite.png)no-repeat;
+	width: 344px;
+	height: 102px;
+	display: block;
+	margin: auto;
+	background-position: -17px -372px;
+}
+.compiatable_txt{
+	text-align: center;
+	font-size: 14px;
+	color: #A09898;
+	font-family: arial;
+	letter-spacing: 2px;
+}
+a:hover{text-decoration:none !important;}	
+a{text-decoration:none!important;}	
